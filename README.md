@@ -4,4 +4,5 @@
 
 ## What's this?
 
-This is an Unity project for "[Submission: Data persistence in a new repo - Unity Learn](https://learn.unity.com/tutorial/submission-data-persistence-in-a-new-repo)"
+This is an Unity project for
+"[Submission: Data persistence in a new repo - Unity Learn](https://learn.unity.com/tutorial/submission-data-persistence-in-a-new-repo)".
